@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+}
+
+.titlePage {
+    font-size: 100px; 
+}
+
+.firstColumn {
+    border: 1px solid red;
+}
+
+.secondColumn {
+    border: 1px solid blue;
+}
+
+.thirdColumn {
+    border: 1px solid yellow;
+}
+
+.fourthColumn {
+    border: 1px solid green;
+}
