@@ -1,23 +1,66 @@
 .center {
-    text-align: center;
+  text-align: center;
 }
+
+input {
+}
+
+/* Title */
 
 .titlePage {
-    font-size: 100px; 
+  font-size: 100px;
 }
 
-.firstColumn {
+/* Form For Content */
+
+.firstForm {
+    border: 1px solid green;
+  }
+  
+  .secondForm {
+    border: 1px solid yellow;
+  }
+  
+  .thirdForm {
+    border: 1px solid blue;
+  }
+  
+  .fourthForm {
     border: 1px solid red;
+  }
+
+/* Quote Content */
+
+.firstColumn {
+  border: 1px solid red;
 }
 
 .secondColumn {
-    border: 1px solid blue;
+  border: 1px solid blue;
 }
 
 .thirdColumn {
-    border: 1px solid yellow;
+  border: 1px solid yellow;
 }
 
 .fourthColumn {
+  border: 1px solid green;
+}
+
+/* Charts */
+
+.firstChart {
+    border: 1px solid blue;
+}
+
+.secondChart {
     border: 1px solid green;
+}
+
+.thirdChart {
+    border: 1px solid red;
+}
+
+.fourthChart {
+    border: 1px solid yellow;
 }
